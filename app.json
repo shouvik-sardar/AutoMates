@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "AutoMates",
+    "slug": "automates",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F4F6FB"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.automates.app"
+    },
+    "android": {
+      "package": "com.automates.app",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#1F4FD8",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
